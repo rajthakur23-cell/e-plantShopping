@@ -40,6 +40,24 @@ function ProductList({ onHomeClick }) {
                     description: "Removes mold spores and purifies the air.",
                     cost: "$18"
                 },
+                 {
+                    name: "Boston Fern",
+                    image: "https://cdn.pixabay.com/photo/2020/04/30/19/52/boston-fern-5114414_1280.jpg",
+                    description: "Adds humidity to the air and removes toxins.",
+                    cost: "$20"
+                },
+                {
+                    name: "Rubber Plant",
+                    image: "https://cdn.pixabay.com/photo/2020/02/15/11/49/flower-4850729_1280.jpg",
+                    description: "Easy to care for and effective at removing toxins.",
+                    cost: "$17"
+                },
+                {
+                    name: "Aloe Vera",
+                    image: "https://cdn.pixabay.com/photo/2018/04/02/07/42/leaf-3283175_1280.jpg",
+                    description: "Purifies the air and has healing properties for skin.",
+                    cost: "$14"
+                }
             ]
         },
         {
